@@ -1,0 +1,47 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+    font-family:var(--roboto-font);
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+/* globar color code */
+
+/* root variable */
+:root {
+    --poppins-font: "Poppins", serif;
+    --roboto-font: "Roboto", serif;
+
+    /* color code */
+    --bg-color:#0A8B8D;
+    --gradient-color:linear-gradient(to right, #0a8b8f, #151515);
+    --button-gradient-color:linear-gradient(to right, #fff, #151515);
+    --red-color:#af251a;
+    --black-color:#151515;
+    --white-color:#fff;
+    --para-color: #5c5c5c;
+}
