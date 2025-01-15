@@ -7,7 +7,7 @@
     margin: 0 auto;
     background-color: var(--bg-color) !important;
     color: var(--white-color);
-    z-index: 999;
+    z-index:  999;
     transition: all 15ms ease-in-out;
     animation: sickyTransition 0.5s both;
     box-shadow: 0 2px 3px rgba(96,96,96,0.1);
