@@ -159,10 +159,4 @@ footer input:focus{
     .colres{
         width: 50% !important;
     }
-    .top_header{
-        display: none;
-    }
-    .top_header{
-        background-color: aliceblue;
-    }
 }
