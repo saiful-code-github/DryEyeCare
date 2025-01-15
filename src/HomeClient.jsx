@@ -85,7 +85,7 @@ const HomeClient = () => {
         ]
     }
   return (
-     <section className='bg-[var(--bg-color)] py-9'>
+     <section className='bg-[var(--bg-color)] py-10'>
           <CContainer style={{marginTop: '7px', marginBottom: "-200px"}}>
             <h2 className='md:text-[48px] text-[34px] font-medium text-[var(--black-color)] capitalize mb-4 text-center'>What our <span className='text-[var(--white-color)]'>Patients say</span></h2>
                <div className="slider-container">

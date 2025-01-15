@@ -1,4 +1,5 @@
 import { CContainer } from '@coreui/react';
+// eslint-disable-next-line no-unused-vars
 import React from 'react';
 import Slider from "react-slick";
 import productbg from '../assets/product-bg.png';

@@ -3,6 +3,7 @@ import { faClock,faUser } from '@fortawesome/free-regular-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Link } from 'react-router-dom';
 import Button from './Button';
+// post images 
 import post1 from '../assets/blog1.jpg';
 import post2 from '../assets/blog2.jpg';
 import post3 from '../assets/blog3.jpg';
