@@ -80,7 +80,7 @@ const HomeBrand = () => {
         ],
       };
   return (
-    <section className='pt-[130px] pb-[20px]'>
+    <section className='pt-[130px] pb-[20px]' id="contactSection">
          <CContainer>
               <div className='slider-containe'>
                   <Slider {...settings}>

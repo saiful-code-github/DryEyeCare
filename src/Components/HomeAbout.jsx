@@ -30,7 +30,7 @@ const HomeAbout = () => {
        setUList(aboutinfo);
     },[])
   return (
-   <section>
+   <section id="aboutSection">
         <CContainer>
             <CRow>
                 <CCol lg={6}>

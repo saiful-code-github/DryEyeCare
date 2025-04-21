@@ -31,7 +31,7 @@ const HomeConnect = () => {
        setConnect(connectInfo);
     },[])
   return (
-    <section className='relative'>
+    <section className='relative' id="accreditationSection">
         <CContainer>
               <h2 className='md:text-[48px] text-[38px] text-[var(--black-color)] font-medium capitalize mb-5 text-center pt-9'><span className='text-[var(--bg-color)]'>How It Helps</span> You To Keep Healthy</h2>
               <CRow className='pb-[50px]'>

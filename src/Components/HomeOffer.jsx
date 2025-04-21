@@ -4,7 +4,7 @@ import Button from './Button';
 import offerimg from '../assets/offer.png';
 const HomeOffer = () => {
   return (
-   <section className='mt-10 relative'>
+   <section className='mt-10 relative' id="patientSection">
     <div className='animate-bounce absolute top-[19%] left-[73%] md:inline-block hidden w-[350px] h-[350px] rounded-full bg-[#f5f5f5] border-solid border-white border-[60px] shadow-lg z-0' style={{animation: "bounce 8s linear infinite"}}></div>
        <CContainer>
              <CRow>

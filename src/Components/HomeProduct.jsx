@@ -98,7 +98,7 @@ const HomeProduct = () => {
   };
 
   return (
-    <section className="py-12 mt-10 relative bg-[var(--red-color)]">
+    <section className="py-12 mt-10 relative bg-[var(--red-color)]" id="productSection">
       {/* Layer for background image */}
       <div
         className="absolute top-0 right-0 bottom-0 left-0 z-0 bg-cover bg-no-repeat bg-center opacity-[0.1]"
